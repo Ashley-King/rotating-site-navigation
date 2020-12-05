@@ -1,4 +1,4 @@
-#Rotating Site Nav
+# Rotating Site Nav
 a simple progress bar with 4 steps 
 
 project created by [Brad Traversy](https://www.udemy.com/course/50-projects-50-days/)
