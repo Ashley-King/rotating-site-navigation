@@ -1,5 +1,5 @@
 # Rotating Site Nav
-a simple progress bar with 4 steps 
+site nav that rotates out when you click 
 
 project created by [Brad Traversy](https://www.udemy.com/course/50-projects-50-days/)
 
